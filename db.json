@@ -279,83 +279,6 @@
       "name": "B. Nickelson"
     }
   ],
-  "awards": {
-    "smartGoal": 6,
-    "badges": [
-      {
-        "id": 1,
-        "name": "completed goal description"
-      },
-      {
-        "id": 2,
-        "name": "completed goal description"
-      },
-      {
-        "id": 3,
-        "name": "completed goal description"
-      },
-      {
-        "id": 4,
-        "name": "completed goal description"
-      },
-      {
-        "id": 5,
-        "name": "completed goal description"
-      },
-      {
-        "id": 6,
-        "name": "completed goal description"
-      },
-      {
-        "id": 7,
-        "name": "completed goal description"
-      },
-      {
-        "id": 8,
-        "name": "completed goal description"
-      },
-      {
-        "id": 9,
-        "name": "completed goal description"
-      },
-      {
-        "id": 10,
-        "name": "completed goal description"
-      }
-    ],
-    "completedGoals": [
-      {
-        "id": 1,
-        "name": "completed goal description"
-      },
-      {
-        "id": 2,
-        "name": "completed goal description"
-      },
-      {
-        "id": 3,
-        "name": "completed goal description"
-      },
-      {
-        "id": 4,
-        "name": "completed goal description"
-      },
-      {
-        "id": 5,
-        "name": "completed goal description"
-      }
-    ],
-    "trophies": [
-      {
-        "id": 1,
-        "name": "Name of the ab Trophy Here"
-      },
-      {
-        "id": 2,
-        "name": "Name of the ab Trophy Here"
-      }
-    ]
-  },
   "recommended": [
     {
       "id": 1,
@@ -644,43 +567,6 @@
           "name": "This is the name of the PLN"
         }
       ]
-    }
-  ],
-  "notifications": {
-    "lounge": {
-      "messages": 14,
-      "postings": 23,
-      "comments": 9,
-      "likes": 98,
-      "relatedcoaches": 8,
-      "something": 10,
-      "anotherThing": 120
-    },
-    "activity": {
-      "followers": 27,
-      "reposting": 34,
-      "comments": 16,
-      "likes": 120
-    }
-  },
-  "smartGoals": [
-    {
-      "id": 1,
-      "name": "This is the name of the goal",
-      "progress": 75,
-      "calendarEvents": 2
-    },
-    {
-      "id": 2,
-      "name": "This is the name of the goal",
-      "progress": 65,
-      "calendarEvents": 0
-    },
-    {
-      "id": 3,
-      "name": "This is the name of the goal",
-      "progress": 20,
-      "calendarEvents": 4
     }
   ]
 }
