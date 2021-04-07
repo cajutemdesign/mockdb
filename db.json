@@ -6,9 +6,15 @@
   "profile": {
     "id": 3,
     "name": "Brandy Davis",
+    "image": "https://writestylesonline.com/wp-content/uploads/2019/01/What-To-Wear-For-Your-Professional-Profile-Picture-or-Headshot.jpg",
     "username": "brandyd",
     "following": 25000,
-    "followers": 3000
+    "followers": 3000,
+    "goalProgress": [
+      75,
+      65,
+      20
+    ]
   },
   "checklist": [
     {
