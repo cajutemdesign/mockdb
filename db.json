@@ -1,5 +1,5 @@
 {
-  "notifications": [
+  "alerts": [
     {
       "id": 1,
       "type": "Coach",
@@ -163,5 +163,524 @@
     "username": "brandyd",
     "following": 25000,
     "followers": 3000
-  }
+  },
+  "checklist": [
+    {
+      "id": 1,
+      "title": "Title of Check List",
+      "items": [
+        {
+          "title": "Lorem ipsum dolor sit",
+          "status": "in progress"
+        },
+        {
+          "title": "Consectetur Adipsicing",
+          "status": "in progress"
+        },
+        {
+          "title": "Sunt in culpa qui",
+          "status": "complete"
+        },
+        {
+          "title": "Deserunt mollit anim in culpa qui id est sepquixn",
+          "status": "in progress"
+        },
+        {
+          "title": "Lemybra qie elvastes",
+          "status": "complete"
+        },
+        {
+          "title": "Lorem ipsum dolor sit",
+          "status": "in progress"
+        },
+        {
+          "title": "Bwncak protenct eldes",
+          "status": "complete"
+        },
+        {
+          "title": "Poscatricy del ispum",
+          "status": "complete"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Title of Check List",
+      "items": [
+        {
+          "title": "Lorem ipsum dolor sit",
+          "status": "in progress"
+        },
+        {
+          "title": "Consectetur Adipsicing",
+          "status": "in progress"
+        },
+        {
+          "title": "Sunt in culpa qui",
+          "status": "complete"
+        },
+        {
+          "title": "Deserunt mollit anim in culpa qui id est sepquixn",
+          "status": "in progress"
+        },
+        {
+          "title": "Lemybra qie elvastes",
+          "status": "complete"
+        },
+        {
+          "title": "Lorem ipsum dolor sit",
+          "status": "in progress"
+        },
+        {
+          "title": "Bwncak protenct eldes",
+          "status": "complete"
+        },
+        {
+          "title": "Poscatricy del ispum",
+          "status": "complete"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "type": "Coach-Meeting",
+      "date": "04-07-2021 13:45:00",
+      "image": "",
+      "name": "B. Nickelson"
+    },
+    {
+      "id": 2,
+      "type": "Smart-Goal",
+      "date": "04-07-2021 00:00:00",
+      "image": "",
+      "description": "This is a test"
+    },
+    {
+      "id": 3,
+      "type": "Coach-Meeting",
+      "date": "04-06-2021 13:45:00",
+      "image": "",
+      "name": "B. Nickelson"
+    },
+    {
+      "id": 4,
+      "type": "Coach-Meeting",
+      "date": "04-16-2021 13:45:00",
+      "image": "",
+      "name": "B. Nickelson"
+    },
+    {
+      "id": 5,
+      "type": "Coach-Meeting",
+      "date": "04-18-2021 13:45:00",
+      "image": "",
+      "name": "B. Nickelson"
+    }
+  ],
+  "awards": {
+    "smartGoal": 6,
+    "badges": [
+      {
+        "id": 1,
+        "name": "completed goal description"
+      },
+      {
+        "id": 2,
+        "name": "completed goal description"
+      },
+      {
+        "id": 3,
+        "name": "completed goal description"
+      },
+      {
+        "id": 4,
+        "name": "completed goal description"
+      },
+      {
+        "id": 5,
+        "name": "completed goal description"
+      },
+      {
+        "id": 6,
+        "name": "completed goal description"
+      },
+      {
+        "id": 7,
+        "name": "completed goal description"
+      },
+      {
+        "id": 8,
+        "name": "completed goal description"
+      },
+      {
+        "id": 9,
+        "name": "completed goal description"
+      },
+      {
+        "id": 10,
+        "name": "completed goal description"
+      }
+    ],
+    "completedGoals": [
+      {
+        "id": 1,
+        "name": "completed goal description"
+      },
+      {
+        "id": 2,
+        "name": "completed goal description"
+      },
+      {
+        "id": 3,
+        "name": "completed goal description"
+      },
+      {
+        "id": 4,
+        "name": "completed goal description"
+      },
+      {
+        "id": 5,
+        "name": "completed goal description"
+      }
+    ],
+    "trophies": [
+      {
+        "id": 1,
+        "name": "Name of the ab Trophy Here"
+      },
+      {
+        "id": 2,
+        "name": "Name of the ab Trophy Here"
+      }
+    ]
+  },
+  "recommended": [
+    {
+      "id": 1,
+      "name": "Benjamin Nickelson",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Melanie Hawkins",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Jenny Rouseo",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Benjamin Nickelson",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Melanie Hawkins",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Jenny Rouseo",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Benjamin Nickelson",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Melanie Hawkins",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Jenny Rouseo",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Benjamin Nickelson",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Melanie Hawkins",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Jenny Rouseo",
+      "grade": "Grade Level",
+      "description": "content",
+      "pln": [
+        {
+          "id": 1,
+          "name": "This is the name of the Eu..."
+        },
+        {
+          "id": 2,
+          "name": "This is the name"
+        },
+        {
+          "id": 3,
+          "name": "This is the name of the"
+        },
+        {
+          "id": 4,
+          "name": "This is the name of the PLN"
+        }
+      ]
+    }
+  ],
+  "notifications": {
+    "lounge": {
+      "messages": 14,
+      "postings": 23,
+      "comments": 9,
+      "likes": 98,
+      "relatedcoaches": 8,
+      "something": 10,
+      "anotherThing": 120
+    },
+    "activity": {
+      "followers": 27,
+      "reposting": 34,
+      "comments": 16,
+      "likes": 120
+    }
+  },
+  "smartGoals": [
+    {
+      "id": 1,
+      "name": "This is the name of the goal",
+      "progress": 75,
+      "calendarEvents": 2
+    },
+    {
+      "id": 2,
+      "name": "This is the name of the goal",
+      "progress": 65,
+      "calendarEvents": 0
+    },
+    {
+      "id": 3,
+      "name": "This is the name of the goal",
+      "progress": 20,
+      "calendarEvents": 4
+    }
+  ]
 }
